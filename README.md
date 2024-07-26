@@ -12,3 +12,6 @@
 
 - [Code for Day 5](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5)
 
+- [Code for Day 6](https://github.com/sameerkatija/sc-advance-web-class/tree/day-6)
+
+- [Code for Day 7](https://github.com/sameerkatija/sc-advance-web-class/tree/day-7)
