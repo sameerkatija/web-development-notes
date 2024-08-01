@@ -23,3 +23,6 @@
 - **Day 10** - Practise
 
 - [Code for Day 11](https://github.com/sameerkatija/sc-advance-web-class/tree/day-11)
+
+- [Code for Day 12](https://github.com/sameerkatija/sc-advance-web-class/tree/day-12)
+
