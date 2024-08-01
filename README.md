@@ -17,3 +17,9 @@
 - [Code for Day 7](https://github.com/sameerkatija/sc-advance-web-class/tree/day-7)
 
 - [Code for Day 8](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8)
+
+- **Day 9** - Practise
+
+- **Day 10** - Practise
+
+- [Code for Day 11](https://github.com/sameerkatija/sc-advance-web-class/tree/day-11)
