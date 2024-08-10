@@ -136,13 +136,44 @@
   - [Library](https://github.com/sameerkatija/sc-advance-web-class/tree/day-6?tab=readme-ov-file#library)
   - [Framework](https://github.com/sameerkatija/sc-advance-web-class/tree/day-6?tab=readme-ov-file#framework)
 
-- [Code for Day 7](https://github.com/sameerkatija/sc-advance-web-class/tree/day-7)
+- [Exploring Web Design Principles: Typography, Color Theory, and CSS Techniques](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#exploring-web-design-principles-typography-color-theory-and-css-techniques)
 
-- [Code for Day 8](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8)
-
-- **Day 9** - Practise
-
-- **Day 10** - Practise
+  - [Practise Code](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#practise-code)
+  - [Web Design Fundamentals](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#web-design-fundamentals)
+  - [CRAP (Principles of Design)](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#crap-principles-of-design)
+    - [1. Contrast:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#1-contrast)
+    - [2. Repetition:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#2-repetition)
+    - [3. Alignment:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#3-alignment)
+    - [4. Proximity:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#4-proximity)
+  - [Typography](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#typography)
+  - [Design Related Games](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#design-related-games)
+  - [Color Theory in web design](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#color-theory-in-web-design)
+    - [1. Color Wheel Basics](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#1-color-wheel-basics)
+    - [2. Color Harmonies](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#2-color-harmonies)
+    - [3. Color Psychology](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#3-color-psychology)
+  - [Theme and palette](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#theme-and-palette)
+    - [1. Theme](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#1-theme)
+    - [2. Color Palette](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#2-color-palette)
+  - [Variable](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#variable)
+  - [CSS Variable](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#css-variable)
+  - [Font-Awesome CDN](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#font-awesome-cdn)
+  - [Css Position](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#css-position)
+  - [CSS transition](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#css-transition)
+    - [Basic Syntax](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#basic-syntax)
+  - [CSS filter](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#css-filter)
+  - [Css box-sizing](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#css-box-sizing)
+    - [1. content-box (Default)](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#1-content-box-default)
+    - [2. border-box](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#2-border-box)
+  - [Css transform property](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#css-transform-property)
+    - [Common Transform Functions](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#common-transform-functions)
+      - [1. `translate(x, y)`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#1-translatex-y)
+      - [2. `rotate(angle)`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#2-rotateangle)
+      - [3. `scale(x, y)`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#3-scalex-y)
+      - [4. `skew(x-angle, y-angle)`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#4-skewx-angle-y-angle)
+    - [Chaining Transformations](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#chaining-transformations)
+  - [Css Animation and keyframe](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#css-animation-and-keyframe)
+    - [1. Defining Keyframes](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#1-defining-keyframes)
+    - [2. Applying Animations](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#2-applying-animations)
 
 - [Code for Day 11](https://github.com/sameerkatija/sc-advance-web-class/tree/day-11)
 
@@ -209,3 +240,7 @@
       - [5. Changing Styles](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16?tab=readme-ov-file#5-changing-styles)
       - [6. `classList`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16?tab=readme-ov-file#6-classlist)
       - [6. Handling Events](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16?tab=readme-ov-file#6-handling-events)
+
+## Practise
+
+- [Code for Day 7](https://github.com/sameerkatija/sc-advance-web-class/tree/day-7)
