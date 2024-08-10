@@ -109,7 +109,21 @@
   - [The `height` and `width` Properties:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-4?tab=readme-ov-file#the-height-and-width-properties)
   - [The display Property](https://github.com/sameerkatija/sc-advance-web-class/tree/day-4?tab=readme-ov-file#the-display-property)
 
-- [Code for Day 5](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5)
+- [5. Understanding CSS Layout: Box Model and Flexbox Fundamentals](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#understanding-css-layout-box-model-and-flexbox-fundamentals)
+
+  - [Practise Code](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#practise-code)
+  - [BOX Model in CSS](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#box-model-in-css)
+    - [1 Content:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#1-content)
+    - [2. Padding:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#2-padding)
+    - [3. Border:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#3-border)
+    - [4. Margin:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#4-margin)
+  - [Width Calculation:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#width-calculation)
+  - [Height Calculation:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#height-calculation)
+  - [CSS Flex Box](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#css-flex-box)
+    - [Basics of `display: flex;`:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#basics-of-display-flex)
+      - [1. Flex Container:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#1-flex-container)
+      - [2. Main Axis and Cross Axis:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#2-main-axis-and-cross-axis)
+      - [3. Flex Properties:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#3-flex-properties)
 
 - [Code for Day 6](https://github.com/sameerkatija/sc-advance-web-class/tree/day-6)
 
