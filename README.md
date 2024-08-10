@@ -4,7 +4,7 @@
 
 - [1. Introduction to HTML: Elements, Tags, and Boilerplate](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#introduction-to-html-elements-tags-and-boilerplate)
 
-  - [Code for Day 1](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#code)
+  - [Practise Code](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#code)
   - [Front-end:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#front-end)
   - [HTML (Hypertext Markup Language):](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#html-hypertext-markup-language)
   - [HTML Elements](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#html-elements)
@@ -18,7 +18,7 @@
 
 - [2. Exploring HTML Semantics, HTTP Basics, and CSS Styling](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#exploring-html-semantics-http-basics-and-css-styling)
 
-  - [Code for Day](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#code-for-day-2)
+  - [Practise Code](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#code-for-day-2)
   - [HTML Semantic Elements](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#html-semantic-elements)
   - [HTTP](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#http)
     - [1. Communication:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#1-communication)
@@ -33,7 +33,25 @@
   - [CSS (Cascading Style Sheets)](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#css-cascading-style-sheets)
   - [CSS Inline-styling](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#css-inline-styling)
 
-- [Code for Day 3](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3)
+- [3. CSS Styling Techniques, Compilers vs. Interpreters, and Introduction to JavaScript](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#css-styling-techniques-compilers-vs-interpreters-and-introduction-to-javascript)
+
+  - [Practise Code](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#practise-code)
+  - [CSS Internal styling](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#css-internal-styling)
+  - [CSS External Styling](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#css-external-styling)
+  - [What is a Compiler?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#what-is-a-compiler)
+    - [How a Compiler Works:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#how-a-compiler-works)
+  - [What is Interpreter?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#what-is-interpreter)
+    - [How an Interpreter Works:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#how-an-interpreter-works)
+  - [3. What is Javascript?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#3-what-is-javascript)
+  - [Form](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#form)
+    - [Method Attribute](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#method-attribute)
+      - [1. `GET`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#1-get)
+      - [2. `POST`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#2-post)
+      - [3. PUT Method](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#3-put-method)
+      - [4. DELETE Method](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#4-delete-method)
+  - [Status Code](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#status-code)
+    - [List of most used status codes](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#list-of-most-used-status-codes)
+  - [Important Points](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#important-points)
 
 - [Code for Day 4](https://github.com/sameerkatija/sc-advance-web-class/tree/day-4)
 
