@@ -4,7 +4,7 @@
 
 - [Introduction to HTML: Elements, Tags, and Boilerplate](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1)
 
-  - [Code](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#code)
+  - [Code for Day 1](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#code)
   - [Front-end:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#front-end)
   - [HTML (Hypertext Markup Language):](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#html-hypertext-markup-language)
   - [HTML Elements](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#html-elements)
