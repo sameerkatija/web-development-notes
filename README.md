@@ -32,8 +32,6 @@
 
 - [Code for Day 15](https://github.com/sameerkatija/sc-advance-web-class/tree/day-15)
 
-- [Code for Day 16]()
-
 - [Mastering Core/Newer JavaScript Concepts and DOM Manipulation](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16)
   - [Type Casting](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16?tab=readme-ov-file#type-casting)
     - [Implicit Type Conversion](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16?tab=readme-ov-file#implicit-type-conversion)
