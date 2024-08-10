@@ -2,7 +2,19 @@
 
 ## Code for Daily class
 
-- [Code for Day 1](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1)
+- [Introduction to HTML: Elements, Tags, and Boilerplate](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1)
+
+  - [Code](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#code)
+  - [Front-end:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#front-end)
+  - [HTML (Hypertext Markup Language):](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#html-hypertext-markup-language)
+  - [HTML Elements](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#html-elements)
+    - [Types of Elements](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#types-of-elements)
+      - [1. Block-level Elements](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#1-block-level-elements)
+      - [2. Inline Elements](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#2-inline-elements)
+  - [Tags:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#tags)
+  - [Attributes:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#attributes)
+    - [Common HTML attributes include:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#common-html-attributes-include)
+  - [HTML Boilerplate](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#html-boilerplate)
 
 - [Code for Day 2](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2)
 
