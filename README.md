@@ -125,7 +125,16 @@
       - [2. Main Axis and Cross Axis:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#2-main-axis-and-cross-axis)
       - [3. Flex Properties:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-5?tab=readme-ov-file#3-flex-properties)
 
-- [Code for Day 6](https://github.com/sameerkatija/sc-advance-web-class/tree/day-6)
+- [6. Advanced CSS Layout: Flex Properties, Libraries, and Frameworks](#advanced-css-layout-flex-properties-libraries-and-frameworks)
+
+  - [Practise Code](#practise-code)
+  - [Flex properties (Continued.)](#flex-properties-continued)
+    - [1. flex-basis](#1-flex-basis)
+    - [2. flex-grow](#2-flex-grow)
+    - [3. flex-shrink](#3-flex-shrink)
+    - [4. order](#4-order)
+  - [Library](#library)
+  - [Framework](#framework)
 
 - [Code for Day 7](https://github.com/sameerkatija/sc-advance-web-class/tree/day-7)
 
