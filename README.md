@@ -53,7 +53,7 @@
     - [List of most used status codes](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#list-of-most-used-status-codes)
   - [Important Points](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3?tab=readme-ov-file#important-points)
 
-- [Deep Dive into CSS: Selectors, Combinators, Colors, and Fonts](https://github.com/sameerkatija/sc-advance-web-class/tree/day-4?tab=readme-ov-file#deep-dive-into-css-selectors-combinators-colors-and-fonts)
+- [4. Deep Dive into CSS: Selectors, Combinators, Colors, and Fonts](https://github.com/sameerkatija/sc-advance-web-class/tree/day-4?tab=readme-ov-file#deep-dive-into-css-selectors-combinators-colors-and-fonts)
 
   - [Practise Code](https://github.com/sameerkatija/sc-advance-web-class/tree/day-4?tab=readme-ov-file#practise-code)
   - [CSS](https://github.com/sameerkatija/sc-advance-web-class/tree/day-4?tab=readme-ov-file#css)
