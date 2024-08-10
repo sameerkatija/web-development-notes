@@ -136,7 +136,7 @@
   - [Library](https://github.com/sameerkatija/sc-advance-web-class/tree/day-6?tab=readme-ov-file#library)
   - [Framework](https://github.com/sameerkatija/sc-advance-web-class/tree/day-6?tab=readme-ov-file#framework)
 
-- [Exploring Web Design Principles: Typography, Color Theory, and CSS Techniques](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#exploring-web-design-principles-typography-color-theory-and-css-techniques)
+- [7. Exploring Web Design Principles: Typography, Color Theory, and CSS Techniques](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#exploring-web-design-principles-typography-color-theory-and-css-techniques)
 
   - [Practise Code](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#practise-code)
   - [Web Design Fundamentals](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#web-design-fundamentals)
