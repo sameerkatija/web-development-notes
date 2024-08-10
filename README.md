@@ -16,7 +16,22 @@
     - [Common HTML attributes include:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#common-html-attributes-include)
   - [HTML Boilerplate](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#html-boilerplate)
 
-- [Code for Day 2](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2)
+- [Exploring HTML Semantics, HTTP Basics, and CSS Styling](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2)
+
+  - [Code for Day](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#code-for-day-2)
+  - [HTML Semantic Elements](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#html-semantic-elements)
+  - [HTTP](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#http)
+    - [1. Communication:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#1-communication)
+    - [2. Stateless Protocol:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#2-stateless-protocol)
+    - [3. Request-Response Model:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#3-request-response-model)
+    - [4. URLs:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#4-urls)
+    - [5. Methods:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#5-methods)
+    - [6. Headers:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#6-headers)
+    - [7. Versions:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#7-versions)
+  - [HTTPS](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#https)
+  - [href](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#href)
+  - [CSS (Cascading Style Sheets)](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#css-cascading-style-sheets)
+  - [CSS Inline-styling](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#css-inline-styling)
 
 - [Code for Day 3](https://github.com/sameerkatija/sc-advance-web-class/tree/day-3)
 
