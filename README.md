@@ -2,7 +2,7 @@
 
 ## Code for Daily class
 
-- [Introduction to HTML: Elements, Tags, and Boilerplate](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1)
+- [Introduction to HTML: Elements, Tags, and Boilerplate](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#introduction-to-html-elements-tags-and-boilerplate)
 
   - [Code for Day 1](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#code)
   - [Front-end:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#front-end)
@@ -16,7 +16,7 @@
     - [Common HTML attributes include:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#common-html-attributes-include)
   - [HTML Boilerplate](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#html-boilerplate)
 
-- [Exploring HTML Semantics, HTTP Basics, and CSS Styling](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2)
+- [Exploring HTML Semantics, HTTP Basics, and CSS Styling](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#exploring-html-semantics-http-basics-and-css-styling)
 
   - [Code for Day](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#code-for-day-2)
   - [HTML Semantic Elements](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#html-semantic-elements)
@@ -59,7 +59,7 @@
 
 - [Code for Day 15](https://github.com/sameerkatija/sc-advance-web-class/tree/day-15)
 
-- [Mastering Core/Newer JavaScript Concepts and DOM Manipulation](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16)
+- [Mastering Core/Newer JavaScript Concepts and DOM Manipulation](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#introduction-to-html-elements-tags-and-boilerplate)
   - [Type Casting](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16?tab=readme-ov-file#type-casting)
     - [Implicit Type Conversion](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16?tab=readme-ov-file#implicit-type-conversion)
     - [Explicit Type Conversion](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16?tab=readme-ov-file#explicit-type-conversion)
