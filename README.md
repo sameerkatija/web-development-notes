@@ -1,8 +1,8 @@
-# Advance Web Development - SC CISD
+# Advance Web Development - From 0 to 100
 
-## Code for Daily class
+## Complete Web Development Bootcamp
 
-- [Introduction to HTML: Elements, Tags, and Boilerplate](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#introduction-to-html-elements-tags-and-boilerplate)
+- [1. Introduction to HTML: Elements, Tags, and Boilerplate](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#introduction-to-html-elements-tags-and-boilerplate)
 
   - [Code for Day 1](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#code)
   - [Front-end:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#front-end)
@@ -16,7 +16,7 @@
     - [Common HTML attributes include:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#common-html-attributes-include)
   - [HTML Boilerplate](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#html-boilerplate)
 
-- [Exploring HTML Semantics, HTTP Basics, and CSS Styling](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#exploring-html-semantics-http-basics-and-css-styling)
+- [2. Exploring HTML Semantics, HTTP Basics, and CSS Styling](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#exploring-html-semantics-http-basics-and-css-styling)
 
   - [Code for Day](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#code-for-day-2)
   - [HTML Semantic Elements](https://github.com/sameerkatija/sc-advance-web-class/tree/day-2?tab=readme-ov-file#html-semantic-elements)
