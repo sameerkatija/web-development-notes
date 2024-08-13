@@ -175,7 +175,37 @@
     - [1. Defining Keyframes](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#1-defining-keyframes)
     - [2. Applying Animations](https://github.com/sameerkatija/sc-advance-web-class/tree/day-8?tab=readme-ov-file#2-applying-animations)
 
-- [8. Introduction to JavaScript: Compilers, Typing Systems, and Variable Fundamentals](https://github.com/sameerkatija/sc-advance-web-class/tree/day-11?tab=readme-ov-file#introduction-to-javascript-compilers-typing-systems-and-variable-fundamentals)
+- [8. Comprehensive Guide to CSS Grid Layout](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#comprehensive-guide-to-css-grid-layout)
+
+  - [CSS GRID](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#css-grid)
+    - [1. Key Terminologies of CSS Grid](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#1-key-terminologies-of-css-grid)
+    - [2. Key Properties](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#2-key-properties)
+      - [2.1 Grid Template Columns and Rows:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#21-grid-template-columns-and-rows)
+      - [2.2 Grid Gap:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#22-grid-gap)
+      - [2.3 Grid Area:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#23-grid-area)
+      - [2.4 Grid Column and Row Span:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#24-grid-column-and-row-span)
+      - [2.5 Implicit Grid:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#25-implicit-grid)
+  - [CSS Grid Alignment](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#css-grid-alignment)
+    - [1. `justify-items`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#1-justify-items)
+    - [2. `align-items`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#2-align-items)
+    - [3. `place-items`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#3-place-items)
+    - [4. `justify-content`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#4-justify-content)
+    - [5. `align-content`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#5-align-content)
+    - [6. `place-content`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#6-place-content)
+    - [7. Summary](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#7-summary)
+  - [Implicit Grid Properties in CSS Grid Layout](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#implicit-grid-properties-in-css-grid-layout)
+    - [1. `grid-auto-flow`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#1-grid-auto-flow)
+      - [1.1 Values:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#11-values)
+    - [2. `grid-auto-columns`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#2-grid-auto-columns)
+    - [4. `grid-auto-rows`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#4-grid-auto-rows)
+  - [Understanding the `fr` Unit](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#understanding-the-fr-unit)
+    - [1. Combining with Fixed Sizes:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#1-combining-with-fixed-sizes)
+  - [Advanced CSS Grid Functions and Keywords](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#advanced-css-grid-functions-and-keywords)
+    - [1. `repeat()`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#1-repeat)
+    - [2. `minmax()`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#2-minmax)
+    - [3. `auto-fit` and `auto-fill`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-20?tab=readme-ov-file#3-auto-fit-and-auto-fill)
+
+- [9. Introduction to JavaScript: Compilers, Typing Systems, and Variable Fundamentals](https://github.com/sameerkatija/sc-advance-web-class/tree/day-11?tab=readme-ov-file#introduction-to-javascript-compilers-typing-systems-and-variable-fundamentals)
 
   - [What is a Compiler?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-11?tab=readme-ov-file#what-is-a-compiler)
   - [What is Interpreter?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-11?tab=readme-ov-file#what-is-interpreter)
@@ -201,7 +231,7 @@
     - [Variable Initialization](https://github.com/sameerkatija/sc-advance-web-class/tree/day-11?tab=readme-ov-file#variable-initialization)
   - [Basic Operators](https://github.com/sameerkatija/sc-advance-web-class/tree/day-11?tab=readme-ov-file#basic-operators)
 
-- [9. JavaScript Essentials: Data Types, Operators, and ECMAScript Overview](https://github.com/sameerkatija/sc-advance-web-class/tree/day-12?tab=readme-ov-file#javascript-essentials-data-types-operators-and-ecmascript-overview)
+- [10. JavaScript Essentials: Data Types, Operators, and ECMAScript Overview](https://github.com/sameerkatija/sc-advance-web-class/tree/day-12?tab=readme-ov-file#javascript-essentials-data-types-operators-and-ecmascript-overview)
 
   - [Practise Code](https://github.com/sameerkatija/sc-advance-web-class/tree/day-12?tab=readme-ov-file#practise-code)
   - [Most popular technologies](https://github.com/sameerkatija/sc-advance-web-class/tree/day-12?tab=readme-ov-file#most-popular-technologies)
@@ -240,7 +270,7 @@
     - [5. Unary Operators](https://github.com/sameerkatija/sc-advance-web-class/tree/day-12?tab=readme-ov-file#5-unary-operators)
   - [NaN in JavaScript](https://github.com/sameerkatija/sc-advance-web-class/tree/day-12?tab=readme-ov-file#nan-in-javascript)
 
-- [10. JavaScript Functions and String Methods: A Comprehensive Guide](https://github.com/sameerkatija/sc-advance-web-class/tree/day-13?tab=readme-ov-file#javascript-functions-and-string-methods-a-comprehensive-guide)
+- [11. JavaScript Functions and String Methods: A Comprehensive Guide](https://github.com/sameerkatija/sc-advance-web-class/tree/day-13?tab=readme-ov-file#javascript-functions-and-string-methods-a-comprehensive-guide)
 
   - [Practise Code](https://github.com/sameerkatija/sc-advance-web-class/tree/day-13?tab=readme-ov-file#practise-code)
   - [Index](https://github.com/sameerkatija/sc-advance-web-class/tree/day-13?tab=readme-ov-file#index)
@@ -283,7 +313,7 @@
       - [8. `Math.sqrt(x)`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-13?tab=readme-ov-file#8-mathsqrtx)
   - [Method Chaining](https://github.com/sameerkatija/sc-advance-web-class/tree/day-13?tab=readme-ov-file#method-chaining)
 
-- [11. JavaScript Control Structures and Data Structures: Arrays and Objects](https://github.com/sameerkatija/sc-advance-web-class/tree/day-14?tab=readme-ov-file#javascript-control-structures-and-data-structures-arrays-and-objects)
+- [12. JavaScript Control Structures and Data Structures: Arrays and Objects](https://github.com/sameerkatija/sc-advance-web-class/tree/day-14?tab=readme-ov-file#javascript-control-structures-and-data-structures-arrays-and-objects)
 
   - [Practise Code](https://github.com/sameerkatija/sc-advance-web-class/tree/day-14?tab=readme-ov-file#practise-code)
   - [What is Decision Making?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-14?tab=readme-ov-file#what-is-decision-making)
@@ -334,7 +364,7 @@
     - [3. `Object.values(obj)`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-14?tab=readme-ov-file#3-objectvaluesobj)
     - [4. `Object.entries(obj)`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-14?tab=readme-ov-file#4-objectentriesobj)
 
-- [12. JavaScript Control Flow: Loops, Functions, and Scope Basics](https://github.com/sameerkatija/sc-advance-web-class/tree/day-15?tab=readme-ov-file#javascript-control-flow-loops-functions-and-scope-basics)
+- [13. JavaScript Control Flow: Loops, Functions, and Scope Basics](https://github.com/sameerkatija/sc-advance-web-class/tree/day-15?tab=readme-ov-file#javascript-control-flow-loops-functions-and-scope-basics)
 
   - [Loops](https://github.com/sameerkatija/sc-advance-web-class/tree/day-15?tab=readme-ov-file#loops)
     - [Why We Need Loops](https://github.com/sameerkatija/sc-advance-web-class/tree/day-15?tab=readme-ov-file#why-we-need-loops)
@@ -369,7 +399,7 @@
       - [1.3 Block Scope](https://github.com/sameerkatija/sc-advance-web-class/tree/day-15?tab=readme-ov-file#13-block-scope)
       - [1.4 Lexical Scope (Static Scope)](https://github.com/sameerkatija/sc-advance-web-class/tree/day-15?tab=readme-ov-file#14-lexical-scope-static-scope)
 
-- [13. Mastering Core/Newer JavaScript Concepts and DOM Manipulation](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#introduction-to-html-elements-tags-and-boilerplate)
+- [14. Mastering Core/Newer JavaScript Concepts and DOM Manipulation](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#introduction-to-html-elements-tags-and-boilerplate)
 
   - [Type Casting](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16?tab=readme-ov-file#type-casting)
     - [Implicit Type Conversion](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16?tab=readme-ov-file#implicit-type-conversion)
@@ -426,7 +456,7 @@
       - [6. `classList`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16?tab=readme-ov-file#6-classlist)
       - [6. Handling Events](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16?tab=readme-ov-file#6-handling-events)
 
-- [14. Decoding JavaScript Events: Guide to Bubbling, Capturing, and Delegation](https://github.com/sameerkatija/sc-advance-web-class/tree/day-17?tab=readme-ov-file#decoding-javascript-events-guide-to-bubbling-capturing-and-delegation)
+- [15. Decoding JavaScript Events: Guide to Bubbling, Capturing, and Delegation](https://github.com/sameerkatija/sc-advance-web-class/tree/day-17?tab=readme-ov-file#decoding-javascript-events-guide-to-bubbling-capturing-and-delegation)
 
   - [Events in JS](https://github.com/sameerkatija/sc-advance-web-class/tree/day-17?tab=readme-ov-file#events-in-js)
     - [1. Key Concepts of JavaScript Events](https://github.com/sameerkatija/sc-advance-web-class/tree/day-17?tab=readme-ov-file#1-key-concepts-of-javascript-events)
@@ -468,7 +498,7 @@
       - [3.3 Multiple Event Types](https://github.com/sameerkatija/sc-advance-web-class/tree/day-17?tab=readme-ov-file#33-multiple-event-types)
     - [4. Summary](https://github.com/sameerkatija/sc-advance-web-class/tree/day-17?tab=readme-ov-file#4-summary)
 
-- [15. Comprehensive Guide to JavaScript Execution: From Data Structures to Runtime Environments](https://github.com/sameerkatija/sc-advance-web-class/tree/day-18?tab=readme-ov-file#comprehensive-guide-to-javascript-execution-from-data-structures-to-runtime-environments)
+- [16. Comprehensive Guide to JavaScript Execution: From Data Structures to Runtime Environments](https://github.com/sameerkatija/sc-advance-web-class/tree/day-18?tab=readme-ov-file#comprehensive-guide-to-javascript-execution-from-data-structures-to-runtime-environments)
 
   - [How JavaScript Uses Just-In-Time (JIT) Compilation for Enhanced Performance](https://github.com/sameerkatija/sc-advance-web-class/tree/day-18?tab=readme-ov-file#how-javascript-uses-just-in-time-jit-compilation-for-enhanced-performance)
     - [1. Understanding JavaScript Execution](https://github.com/sameerkatija/sc-advance-web-class/tree/day-18?tab=readme-ov-file#1-understanding-javascript-execution)
@@ -513,7 +543,7 @@
     - [3. Node.js Environment](https://github.com/sameerkatija/sc-advance-web-class/tree/day-18?tab=readme-ov-file#3-nodejs-environment)
     - [4. Conclusion](https://github.com/sameerkatija/sc-advance-web-class/tree/day-18?tab=readme-ov-file#4-conclusion)
 
-- [16. Mastering Asynchronous JavaScript: A Comprehensive Guide to Non-Blocking Paradigm](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#mastering-asynchronous-javascript-a-comprehensive-guide-to-non-blocking-paradigm)
+- [17. Mastering Asynchronous JavaScript: A Comprehensive Guide to Non-Blocking Paradigm](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#mastering-asynchronous-javascript-a-comprehensive-guide-to-non-blocking-paradigm)
   - [Callbacks](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#callbacks)
     - [1. What is a Callback?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#1-what-is-a-callback)
     - [2. How Callbacks Work](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#2-how-callbacks-work)
