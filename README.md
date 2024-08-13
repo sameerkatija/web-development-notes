@@ -469,6 +469,7 @@
     - [4. Summary](https://github.com/sameerkatija/sc-advance-web-class/tree/day-17?tab=readme-ov-file#4-summary)
 
 - [15. Comprehensive Guide to JavaScript Execution: From Data Structures to Runtime Environments](https://github.com/sameerkatija/sc-advance-web-class/tree/day-18?tab=readme-ov-file#comprehensive-guide-to-javascript-execution-from-data-structures-to-runtime-environments)
+
   - [How JavaScript Uses Just-In-Time (JIT) Compilation for Enhanced Performance](https://github.com/sameerkatija/sc-advance-web-class/tree/day-18?tab=readme-ov-file#how-javascript-uses-just-in-time-jit-compilation-for-enhanced-performance)
     - [1. Understanding JavaScript Execution](https://github.com/sameerkatija/sc-advance-web-class/tree/day-18?tab=readme-ov-file#1-understanding-javascript-execution)
       - [1.1 Initial Interpretation](https://github.com/sameerkatija/sc-advance-web-class/tree/day-18?tab=readme-ov-file#11-initial-interpretation)
@@ -511,6 +512,28 @@
     - [2. Web APIs in Browsers](https://github.com/sameerkatija/sc-advance-web-class/tree/day-18?tab=readme-ov-file#2-web-apis-in-browsers)
     - [3. Node.js Environment](https://github.com/sameerkatija/sc-advance-web-class/tree/day-18?tab=readme-ov-file#3-nodejs-environment)
     - [4. Conclusion](https://github.com/sameerkatija/sc-advance-web-class/tree/day-18?tab=readme-ov-file#4-conclusion)
+
+- [16. Mastering Asynchronous JavaScript: A Comprehensive Guide to Non-Blocking Paradigm](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#mastering-asynchronous-javascript-a-comprehensive-guide-to-non-blocking-paradigm)
+  - [Callbacks](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#callbacks)
+    - [1. What is a Callback?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#1-what-is-a-callback)
+    - [2. How Callbacks Work](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#2-how-callbacks-work)
+    - [3. Benefits of Callbacks](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#3-benefits-of-callbacks)
+    - [4. Callback Hell](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#4-callback-hell)
+    - [5. Alternatives to Callbacks](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#5-alternatives-to-callbacks)
+  - [Promise In JS](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#promise-in-js)
+    - [1. Key Concepts of Promises](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#1-key-concepts-of-promises)
+      - [1.1 States:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#11-states)
+      - [1.2 Creating a Promise:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#12-creating-a-promise)
+      - [1.3 Handling Promises:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#13-handling-promises)
+      - [1.4 Chaining Promises:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#14-chaining-promises)
+      - [1.5 `Promise.all()` and `Promise.race()`:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#15-promiseall-and-promiserace)
+  - [Async/Await in JS](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#asyncawait-in-js)
+    - [1. `async` Function](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#1-async-function)
+      - [1. Characteristics:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#1-characteristics)
+    - [2. `await` Expression](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#2-await-expression)
+      - [2.1 Characteristics:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#21-characteristics)
+    - [3. Key Points](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#3-key-points)
+    - [4. Summary](https://github.com/sameerkatija/sc-advance-web-class/tree/day-19?tab=readme-ov-file#4-summary)
 
 ## Practise Projects / Demo Projects
 
