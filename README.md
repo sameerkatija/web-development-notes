@@ -399,7 +399,7 @@
       - [1.3 Block Scope](https://github.com/sameerkatija/sc-advance-web-class/tree/day-15?tab=readme-ov-file#13-block-scope)
       - [1.4 Lexical Scope (Static Scope)](https://github.com/sameerkatija/sc-advance-web-class/tree/day-15?tab=readme-ov-file#14-lexical-scope-static-scope)
 
-- [14. Mastering Core/Newer JavaScript Concepts and DOM Manipulation](https://github.com/sameerkatija/sc-advance-web-class/tree/day-1?tab=readme-ov-file#introduction-to-html-elements-tags-and-boilerplate)
+- [14. Mastering Core/Newer JavaScript Concepts and DOM Manipulation](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16?tab=readme-ov-file#introduction-to-html-elements-tags-and-boilerplate)
 
   - [Type Casting](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16?tab=readme-ov-file#type-casting)
     - [Implicit Type Conversion](https://github.com/sameerkatija/sc-advance-web-class/tree/day-16?tab=readme-ov-file#implicit-type-conversion)
