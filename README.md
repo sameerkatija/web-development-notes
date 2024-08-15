@@ -497,6 +497,10 @@
       - [3.2 Event Filtering](https://github.com/sameerkatija/sc-advance-web-class/tree/day-17?tab=readme-ov-file#32-event-filtering)
       - [3.3 Multiple Event Types](https://github.com/sameerkatija/sc-advance-web-class/tree/day-17?tab=readme-ov-file#33-multiple-event-types)
     - [4. Summary](https://github.com/sameerkatija/sc-advance-web-class/tree/day-17?tab=readme-ov-file#4-summary)
+  - [Event Simulation](https://github.com/sameerkatija/sc-advance-web-class/tree/day-17?tab=readme-ov-file#event-simulation)
+    - [1. How it Works](https://github.com/sameerkatija/sc-advance-web-class/tree/day-17?tab=readme-ov-file#1-how-it-works)
+      - [1.1 Create an Event Object:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-17?tab=readme-ov-file#11-create-an-event-object)
+      - [1.2 Dispatch the Event:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-17?tab=readme-ov-file#12-dispatch-the-event)
 
 - [16. Comprehensive Guide to JavaScript Execution: From Data Structures to Runtime Environments](https://github.com/sameerkatija/sc-advance-web-class/tree/day-18?tab=readme-ov-file#comprehensive-guide-to-javascript-execution-from-data-structures-to-runtime-environments)
 
