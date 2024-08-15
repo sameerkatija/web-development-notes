@@ -568,3 +568,4 @@
 ## Practise Projects / Demo Projects
 
 1. [Css mini Project](https://github.com/sameerkatija/sc-advance-web-class/tree/day-7)
+2. [Dom Mini Project](https://github.com/sameerkatija/sc-advance-web-class/tree/dom-color-guessing-game)
