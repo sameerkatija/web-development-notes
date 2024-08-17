@@ -555,7 +555,7 @@
     - [8. Summary](https://github.com/sameerkatija/sc-advance-web-class/tree/day-22?tab=readme-ov-file#8-summary)
   - [Configuring Git](https://github.com/sameerkatija/sc-advance-web-class/tree/day-22?tab=readme-ov-file#configuring-git)
   - [Common Git Commands](https://github.com/sameerkatija/sc-advance-web-class/tree/day-22?tab=readme-ov-file#common-git-commands)
-  - [What is MarkDown and Github Markdown Cheat Sheet](https://javascript.plainenglish.io/github-markdown-cheat-sheet-everything-you-need-to-know-to-write-readme-md-ce40369da21f)
+  - [What is MarkDown and Github Markdown Cheat Sheet](https://github.com/sameerkatija/sc-advance-web-class/tree/day-22?tab=readme-ov-file#what-is-markdown-and-github-markdown-cheat-sheet)
 
 - [18. Comprehensive Guide to JavaScript Execution: From Data Structures to Runtime Environments](https://github.com/sameerkatija/sc-advance-web-class/tree/day-18?tab=readme-ov-file#comprehensive-guide-to-javascript-execution-from-data-structures-to-runtime-environments)
 
