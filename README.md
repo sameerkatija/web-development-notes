@@ -714,6 +714,7 @@
     - [1. Key benefits of APIs:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-23?tab=readme-ov-file#1-key-benefits-of-apis)
 
 - [21. Comprehensive Guide to JavaScript Object-Oriented Programming (OOP)](https://github.com/sameerkatija/sc-advance-web-class/tree/day-24?tab=readme-ov-file#comprehensive-guide-to-javascript-object-oriented-programming-oop)
+
   - [Object Oriented Programming](https://github.com/sameerkatija/sc-advance-web-class/tree/day-24?tab=readme-ov-file#object-oriented-programming)
     - [Core Components of OOP](https://github.com/sameerkatija/sc-advance-web-class/tree/day-24?tab=readme-ov-file#core-components-of-oop)
       - [1. Class:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-24?tab=readme-ov-file#1-class)
@@ -754,6 +755,32 @@
     - [Private Fields and Methods:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-24?tab=readme-ov-file#private-fields-and-methods)
   - [Object prototypes](https://github.com/sameerkatija/sc-advance-web-class/tree/day-24?tab=readme-ov-file#object-prototypes)
     - [Prototype-Based Inheritance](https://github.com/sameerkatija/sc-advance-web-class/tree/day-24?tab=readme-ov-file#prototype-based-inheritance)
+
+- [22. Getting Started with Node.js: Key Concepts, Modules, and npm Essentials](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#getting-started-with-nodejs-key-concepts-modules-and-npm-essentials)
+  - [What is Node.js?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#what-is-nodejs)
+  - [What you can build with Node?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#what-you-can-build-with-node)
+  - [Key Concepts Before Learning Node.js Development](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#key-concepts-before-learning-nodejs-development)
+    - [1. Directory](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#1-directory)
+    - [2. Package](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#2-package)
+    - [3. Package Manager](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#3-package-manager)
+    - [4. Dependency](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#4-dependency)
+    - [5. `package.json`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#5-packagejson)
+  - [What is a Module and Modular Programming?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#what-is-a-module-and-modular-programming)
+    - [Module:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#module)
+    - [Modular Programming:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#modular-programming)
+      - [Benefits:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#benefits)
+  - [CommonJS Modules vs ES6 Modules](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#commonjs-modules-vs-es6-modules)
+    - [CommonJS Modules](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#commonjs-modules)
+    - [ES6 Modules](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#es6-modules)
+    - [Comparison Summary](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#comparison-summary)
+  - [Getting started with NPM](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#getting-started-with-npm)
+    - [1. Initializing a Project](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#1-initializing-a-project)
+    - [2. Installing Packages](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#2-installing-packages)
+    - [3. Uninstalling Packages](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#3-uninstalling-packages)
+    - [4. Updating Packages](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#4-updating-packages)
+    - [5. Checking Package Information](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#5-checking-package-information)
+    - [6. Running Scripts](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#6-running-scripts)
+  - [What is a Backend Server?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#what-is-a-backend-server)
 
 ## Practise Projects / Demo Projects
 
