@@ -783,7 +783,7 @@
     - [6. Running Scripts](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#6-running-scripts)
   - [What is a Backend Server?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#what-is-a-backend-server)
 
-- [Understanding Node.js: From Internals to Event-Driven Architecture](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#understanding-nodejs-from-internals-to-event-driven-architecture)
+- [23. Understanding Node.js: From Internals to Event-Driven Architecture](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#understanding-nodejs-from-internals-to-event-driven-architecture)
   - [What is Node Js](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#what-is-node-js)
     - [Key features of Node.js:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#key-features-of-nodejs)
   - [Node Internals Deep Dive](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#node-internals-deep-dive)
