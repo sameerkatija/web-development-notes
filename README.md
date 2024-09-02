@@ -757,6 +757,7 @@
     - [Prototype-Based Inheritance](https://github.com/sameerkatija/sc-advance-web-class/tree/day-24?tab=readme-ov-file#prototype-based-inheritance)
 
 - [22. Getting Started with Node.js: Key Concepts, Modules, and npm Essentials](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#getting-started-with-nodejs-key-concepts-modules-and-npm-essentials)
+
   - [What is Node.js?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#what-is-nodejs)
   - [What you can build with Node?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#what-you-can-build-with-node)
   - [Key Concepts Before Learning Node.js Development](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#key-concepts-before-learning-nodejs-development)
@@ -781,6 +782,27 @@
     - [5. Checking Package Information](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#5-checking-package-information)
     - [6. Running Scripts](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#6-running-scripts)
   - [What is a Backend Server?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#what-is-a-backend-server)
+
+- [Understanding Node.js: From Internals to Event-Driven Architecture](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#understanding-nodejs-from-internals-to-event-driven-architecture)
+  - [What is Node Js](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#what-is-node-js)
+    - [Key features of Node.js:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#key-features-of-nodejs)
+  - [Node Internals Deep Dive](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#node-internals-deep-dive)
+    - [1. V8 JavaScript Engine](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#1-v8-javascript-engine)
+      - [Key Features:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#key-features)
+    - [2. Node APIs](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#2-node-apis)
+      - [Key APIs:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#key-apis)
+    - [3. Node Bindings](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#3-node-bindings)
+      - [Key Concepts:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#key-concepts)
+    - [4. Libuv](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#4-libuv)
+      - [Key Features:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#key-features-1)
+    - [Conclusion](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#conclusion)
+  - [Observer Design Pattern](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#observer-design-pattern)
+    - [Key Components](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#key-components)
+    - [How It Works](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#how-it-works)
+  - [Node.js Event-Driven Architecture](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#nodejs-event-driven-architecture)
+    - [Key Components](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#key-components-1)
+    - [How It Works](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#how-it-works-1)
+    - [Conclusion](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#conclusion-1)
 
 ## Practise Projects / Demo Projects
 
