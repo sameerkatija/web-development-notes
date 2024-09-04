@@ -784,6 +784,7 @@
   - [What is a Backend Server?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-25?tab=readme-ov-file#what-is-a-backend-server)
 
 - [23. Understanding Node.js: From Internals to Event-Driven Architecture](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#understanding-nodejs-from-internals-to-event-driven-architecture)
+
   - [What is Node Js](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#what-is-node-js)
     - [Key features of Node.js:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#key-features-of-nodejs)
   - [Node Internals Deep Dive](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#node-internals-deep-dive)
@@ -803,6 +804,18 @@
     - [Key Components](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#key-components-1)
     - [How It Works](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#how-it-works-1)
     - [Conclusion](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#conclusion-1)
+
+- [24. Understanding Web Server Basics: Ports, Routing, HTTP Methods, and Node.js Implementation](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#understanding-web-server-basics-ports-routing-http-methods-and-nodejs-implementation)
+  - [What is `PORT` and Why we need it?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#what-is-port-and-why-we-need-it)
+  - [Routes](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#routes)
+  - [Method:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#method)
+  - [Request](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#request)
+  - [Response Status Code](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#response-status-code)
+  - [Request Body](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#request-body)
+  - [Headers](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#headers)
+  - [Creating server in Node Js](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#creating-server-in-node-js)
+  - [Example of Node Process](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#example-of-node-process)
+  - [Routing in Node Server](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#routing-in-node-server)
 
 ## Practise Projects / Demo Projects
 
