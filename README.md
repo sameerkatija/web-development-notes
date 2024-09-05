@@ -816,6 +816,19 @@
   - [Creating server in Node Js](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#creating-server-in-node-js)
   - [Example of Node Process](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#example-of-node-process)
   - [Routing in Node Server](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#routing-in-node-server)
+  - [Taking input using `prompt-sync`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#taking-input-using-prompt-sync)
+  - [Taking input using `readline` Module](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#taking-input-using-readline-module)
+  - [Number Guessing Game](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#number-guessing-game)
+  - [`process` module](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#process-module)
+    - [1. Process Information](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#1-process-information)
+    - [2. Environment Variables](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#2-environment-variables)
+    - [3. Standard Input/Output](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#3-standard-inputoutput)
+    - [4. Exit and Exit Code](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#4-exit-and-exit-code)
+    - [5. Handling Signals](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#5-handling-signals)
+    - [6. Command-Line Arguments](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#6-command-line-arguments)
+  - [Read file using `createReadStream`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#read-file-using-createreadstream)
+  - [Read file using `fs.readfile`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#read-file-using-fsreadfile)
+  - [Create and Write File](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#create-and-write-file)
 
 ## Practise Projects / Demo Projects
 
