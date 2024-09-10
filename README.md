@@ -806,6 +806,7 @@
     - [Conclusion](https://github.com/sameerkatija/sc-advance-web-class/tree/day-26?tab=readme-ov-file#conclusion-1)
 
 - [24. Understanding Web Server Basics: Ports, Routing, HTTP Methods, and Node.js Implementation](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#understanding-web-server-basics-ports-routing-http-methods-and-nodejs-implementation)
+
   - [What is `PORT` and Why we need it?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#what-is-port-and-why-we-need-it)
   - [Routes](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#routes)
   - [Method:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#method)
@@ -829,6 +830,18 @@
   - [Read file using `createReadStream`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#read-file-using-createreadstream)
   - [Read file using `fs.readfile`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#read-file-using-fsreadfile)
   - [Create and Write File](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#create-and-write-file)
+
+- [25. Comprehensive Guide to Express.js](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#comprehensive-guide-to-expressjs)
+  - [Express JS](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#express-js)
+    - [Why Use Express Instead of Node's Built-in HTTP Module?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#why-use-express-instead-of-nodes-built-in-http-module)
+    - [Conclusion](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#conclusion)
+  - [Building your first web server using `express`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#building-your-first-web-server-using-express)
+  - [Express Routing basics](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#express-routing-basics)
+  - [Request and Response Objects](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#request-and-response-objects)
+    - [Request Object (`req`)](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#request-object-req)
+    - [Response Object (`res`)](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#response-object-res)
+  - [Working with Query Strings in Express.js](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#working-with-query-strings-in-expressjs)
+  - [Using Path Parameters in Express.js:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#using-path-parameters-in-expressjs)
 
 ## Practise Projects / Demo Projects
 
