@@ -832,6 +832,7 @@
   - [Create and Write File](https://github.com/sameerkatija/sc-advance-web-class/tree/day-27?tab=readme-ov-file#create-and-write-file)
 
 - [25. Comprehensive Guide to Express.js](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#comprehensive-guide-to-expressjs)
+
   - [Express JS](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#express-js)
     - [Why Use Express Instead of Node's Built-in HTTP Module?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#why-use-express-instead-of-nodes-built-in-http-module)
     - [Conclusion](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#conclusion)
@@ -842,6 +843,34 @@
     - [Response Object (`res`)](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#response-object-res)
   - [Working with Query Strings in Express.js](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#working-with-query-strings-in-expressjs)
   - [Using Path Parameters in Express.js:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#using-path-parameters-in-expressjs)
+
+- [26. From Static to Dynamic: The Art of HTML Templating](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#from-static-to-dynamic-the-art-of-html-templating)
+  - [Serving HTML file](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#serving-html-file)
+  - [Enhancing Static HTML with Dynamic Data](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#enhancing-static-html-with-dynamic-data)
+    - [Why this approach isn't good?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#why-this-approach-isnt-good)
+  - [Introduction to Templating](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#introduction-to-templating)
+  - [EJS (Embedded JavaScript)](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#ejs-embedded-javascript)
+    - [Key Features of EJS:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#key-features-of-ejs)
+    - [EJS with Express.js](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#ejs-with-expressjs)
+      - [1. Install EJS:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#1-install-ejs)
+      - [2. Configure Express to Use EJS:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#2-configure-express-to-use-ejs)
+      - [3. Create EJS Templates:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#3-create-ejs-templates)
+    - [Passing Data to EJS](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#passing-data-to-ejs)
+    - [EJS TAGS](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#ejs-tags)
+      - [1. Output Tags `<%= expression %>`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#1-output-tags--expression-)
+      - [2. Unescaped Output Tags `<%- expression %>`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#2-unescaped-output-tags---expression-)
+      - [3. JavaScript Code Tags `<% code %>`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#3-javascript-code-tags--code-)
+      - [4. Comment Tags `<%# comment %>`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#4-comment-tags--comment-)
+    - [Conditions in ejs](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#conditions-in-ejs)
+    - [Loops in ejs](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#loops-in-ejs)
+  - [EJS Partials](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#ejs-partials)
+    - [Using EJS Partials](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#using-ejs-partials)
+      - [1. Creating Partials](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#1-creating-partials)
+      - [2. Including Partials in Templates](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#2-including-partials-in-templates)
+      - [3. Passing Data to Partials](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#3-passing-data-to-partials)
+  - [Serving Static Assets in Express](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#serving-static-assets-in-express)
+    - [1. Create a Directory for Static Assets](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#1-create-a-directory-for-static-assets)
+    - [2. Configure Express to Serve Static Assets](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#2-configure-express-to-serve-static-assets)
 
 ## Practise Projects / Demo Projects
 
