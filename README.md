@@ -845,6 +845,7 @@
   - [Using Path Parameters in Express.js:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-28?tab=readme-ov-file#using-path-parameters-in-expressjs)
 
 - [26. From Static to Dynamic: The Art of HTML Templating](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#from-static-to-dynamic-the-art-of-html-templating)
+
   - [Serving HTML file](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#serving-html-file)
   - [Enhancing Static HTML with Dynamic Data](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#enhancing-static-html-with-dynamic-data)
     - [Why this approach isn't good?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#why-this-approach-isnt-good)
@@ -871,6 +872,22 @@
   - [Serving Static Assets in Express](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#serving-static-assets-in-express)
     - [1. Create a Directory for Static Assets](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#1-create-a-directory-for-static-assets)
     - [2. Configure Express to Serve Static Assets](https://github.com/sameerkatija/sc-advance-web-class/tree/day-29?tab=readme-ov-file#2-configure-express-to-serve-static-assets)
+
+- [27. Understanding HTTP Request Methods, REST Architecture, and Middleware in Express.js](https://github.com/sameerkatija/sc-advance-web-class/tree/day-30?tab=readme-ov-file#understanding-http-request-methods-rest-architecture-and-middleware-in-expressjs)
+  - [Request Methods](https://github.com/sameerkatija/sc-advance-web-class/tree/day-30?tab=readme-ov-file#request-methods)
+    - [1. GET](https://github.com/sameerkatija/sc-advance-web-class/tree/day-30?tab=readme-ov-file#1-get)
+    - [2. POST](https://github.com/sameerkatija/sc-advance-web-class/tree/day-30?tab=readme-ov-file#2-post)
+    - [3. PUT](https://github.com/sameerkatija/sc-advance-web-class/tree/day-30?tab=readme-ov-file#3-put)
+    - [4. DELETE](https://github.com/sameerkatija/sc-advance-web-class/tree/day-30?tab=readme-ov-file#4-delete)
+    - [5. PATCH](https://github.com/sameerkatija/sc-advance-web-class/tree/day-30?tab=readme-ov-file#5-patch)
+  - [REST (Representational State Transfer)](https://github.com/sameerkatija/sc-advance-web-class/tree/day-30?tab=readme-ov-file#rest-representational-state-transfer)
+  - [Middlewares](https://github.com/sameerkatija/sc-advance-web-class/tree/day-30?tab=readme-ov-file#middlewares)
+    - [Middleware Function Signature](https://github.com/sameerkatija/sc-advance-web-class/tree/day-30?tab=readme-ov-file#middleware-function-signature)
+    - [Types of Middleware](https://github.com/sameerkatija/sc-advance-web-class/tree/day-30?tab=readme-ov-file#types-of-middleware)
+      - [1. Application-Level Middleware](https://github.com/sameerkatija/sc-advance-web-class/tree/day-30?tab=readme-ov-file#1-application-level-middleware)
+      - [2. Route-Level Middleware](https://github.com/sameerkatija/sc-advance-web-class/tree/day-30?tab=readme-ov-file#2-route-level-middleware)
+      - [3. Built-in Middleware](https://github.com/sameerkatija/sc-advance-web-class/tree/day-30?tab=readme-ov-file#3-built-in-middleware)
+  - [Global Error handling middlware](https://github.com/sameerkatija/sc-advance-web-class/tree/day-30?tab=readme-ov-file#global-error-handling-middlware)
 
 ## Practise Projects / Demo Projects
 
