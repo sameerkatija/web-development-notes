@@ -989,6 +989,7 @@
       - [Using Flash Messages](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#using-flash-messages)
 
 - [31. Comprehensive Guide to Authentication and Security in Web Applications](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#comprehensive-guide-to-authentication-and-security-in-web-applications)
+
   - [Authentication Vs. Authorization](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#authentication-vs-authorization)
     - [Authentication](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#authentication)
     - [Authorization](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#authorization)
@@ -1014,6 +1015,22 @@
   - [JWT (JSON Web Tokens)](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#jwt-json-web-tokens)
     - [Step 1: Install Required Packages](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#step-1-install-required-packages-1)
     - [Step 2: Using JWT](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#step-2-using-jwt)
+
+- [32. Express Router and Application Refactoring](https://github.com/sameerkatija/sc-advance-web-class/tree/day-35?tab=readme-ov-file#express-router-and-application-refactoring)
+  - [What is Express Router?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-35?tab=readme-ov-file#what-is-express-router)
+    - [Key Features](https://github.com/sameerkatija/sc-advance-web-class/tree/day-35?tab=readme-ov-file#key-features)
+    - [Basic Usage](https://github.com/sameerkatija/sc-advance-web-class/tree/day-35?tab=readme-ov-file#basic-usage)
+    - [Summary](https://github.com/sameerkatija/sc-advance-web-class/tree/day-35?tab=readme-ov-file#summary)
+  - [Refactoring the Express app](https://github.com/sameerkatija/sc-advance-web-class/tree/day-35?tab=readme-ov-file#refactoring-the-express-app)
+    - [Project Structure](https://github.com/sameerkatija/sc-advance-web-class/tree/day-35?tab=readme-ov-file#project-structure)
+    - [Step 1: `config/config.js`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-35?tab=readme-ov-file#step-1-configconfigjs)
+    - [Step 2: `models/*`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-35?tab=readme-ov-file#step-2-models)
+    - [Step 3: `controllers/*`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-35?tab=readme-ov-file#step-3-controllers)
+    - [Step 4: `middlewares/*`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-35?tab=readme-ov-file#step-4-middlewares)
+    - [Step 5: `routes/*`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-35?tab=readme-ov-file#step-5-routes)
+    - [Step 6: server.js](https://github.com/sameerkatija/sc-advance-web-class/tree/day-35?tab=readme-ov-file#step-6-serverjs)
+    - [Summary](https://github.com/sameerkatija/sc-advance-web-class/tree/day-35?tab=readme-ov-file#summary-1)
+  - [Continued Learning in Web Development](https://github.com/sameerkatija/sc-advance-web-class/tree/day-35?tab=readme-ov-file#continued-learning-in-web-development)
 
 ## Practise Projects / Demo Projects
 
