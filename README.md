@@ -932,6 +932,7 @@
     - [4. Understand SQL Clauses](https://github.com/sameerkatija/sc-advance-web-class/tree/day-31?tab=readme-ov-file#4-understand-sql-clauses)
 
 - [29. Introduction to MongoDB and Mongoose: Basics, Setup, and Advanced Concepts](https://github.com/sameerkatija/sc-advance-web-class/tree/day-32?tab=readme-ov-file#introduction-to-mongodb-and-mongoose-basics-setup-and-advanced-concepts)
+
   - [WHY are we learning MongoDB?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-32?tab=readme-ov-file#why-are-we-learning-mongodb)
   - [What is BSON?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-32?tab=readme-ov-file#what-is-bson)
   - [Basic MongoDB Commands](https://github.com/sameerkatija/sc-advance-web-class/tree/day-32?tab=readme-ov-file#basic-mongodb-commands)
@@ -961,6 +962,30 @@
   - [references in mongodb](https://github.com/sameerkatija/sc-advance-web-class/tree/day-32?tab=readme-ov-file#references-in-mongodb)
     - [Understanding References in MongoDB](https://github.com/sameerkatija/sc-advance-web-class/tree/day-32?tab=readme-ov-file#understanding-references-in-mongodb)
     - [Example:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-32?tab=readme-ov-file#example)
+
+- [30. Advance Express.js: Methods, Cookies, Sessions, and MVC](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#advance-expressjs-methods-cookies-sessions-and-mvc)
+  - [Making `PUT`, `PATCH` and `DELETE` Requests Using `method-override`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#making-put-patch-and-delete-requests-using-method-override)
+    - [Step 1: Install Required Packages](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#step-1-install-required-packages)
+    - [Step 2: Set Up Express and Method-Override](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#step-2-set-up-express-and-method-override)
+    - [Step 3: Create an HTML Form](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#step-3-create-an-html-form)
+  - [Cookies Vs Session](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#cookies-vs-session)
+    - [Cookies](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#cookies)
+      - [Getting Started with `Cookie`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#getting-started-with-cookie)
+    - [Sessions](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#sessions)
+      - [Getting Started with `Sessions`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#getting-started-with-sessions)
+  - [Key Differences](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#key-differences)
+  - [Conclusion](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#conclusion)
+  - [Signing Cookies in Express.js](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#signing-cookies-in-expressjs)
+  - [MVC (Model-View-Controller)](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#mvc-model-view-controller)
+    - [1. Model](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#1-model)
+    - [2. View](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#2-view)
+    - [3. Controller](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#3-controller)
+    - [Summary](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#summary)
+  - [`connect-flash` Middleware: Third-Party Package](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#connect-flash-middleware-third-party-package)
+    - [Using `connect-flash`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#using-connect-flash)
+      - [1. Require Necessary Packages](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#1-require-necessary-packages)
+      - [Configure Middleware](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#configure-middleware)
+      - [Using Flash Messages](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#using-flash-messages)
 
 ## Practise Projects / Demo Projects
 
