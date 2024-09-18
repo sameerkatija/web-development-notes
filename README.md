@@ -964,6 +964,7 @@
     - [Example:](https://github.com/sameerkatija/sc-advance-web-class/tree/day-32?tab=readme-ov-file#example)
 
 - [30. Advance Express.js: Methods, Cookies, Sessions, and MVC](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#advance-expressjs-methods-cookies-sessions-and-mvc)
+
   - [Making `PUT`, `PATCH` and `DELETE` Requests Using `method-override`](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#making-put-patch-and-delete-requests-using-method-override)
     - [Step 1: Install Required Packages](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#step-1-install-required-packages)
     - [Step 2: Set Up Express and Method-Override](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#step-2-set-up-express-and-method-override)
@@ -986,6 +987,33 @@
       - [1. Require Necessary Packages](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#1-require-necessary-packages)
       - [Configure Middleware](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#configure-middleware)
       - [Using Flash Messages](https://github.com/sameerkatija/sc-advance-web-class/tree/day-33?tab=readme-ov-file#using-flash-messages)
+
+- [31. Comprehensive Guide to Authentication and Security in Web Applications](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#comprehensive-guide-to-authentication-and-security-in-web-applications)
+  - [Authentication Vs. Authorization](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#authentication-vs-authorization)
+    - [Authentication](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#authentication)
+    - [Authorization](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#authorization)
+    - [Summary](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#summary)
+  - [Encryption](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#encryption)
+  - [Decryption](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#decryption)
+  - [Hashing](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#hashing)
+  - [`dotenv` npm Package](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#dotenv-npm-package)
+    - [Create a `.env` File](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#create-a-env-file)
+    - [Using env variables in the app](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#using-env-variables-in-the-app)
+  - [What is `Bcrypt` npm Package?](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#what-is-bcrypt-npm-package)
+    - [Key Features](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#key-features)
+    - [Basic Usage](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#basic-usage)
+    - [Summary](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#summary-1)
+  - [Auth from Scratch](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#auth-from-scratch)
+    - [Step 1: Install Required Packages](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#step-1-install-required-packages)
+    - [Step 2: Set Up Your Express Application](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#step-2-set-up-your-express-application)
+    - [Step 3: User Registration](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#step-3-user-registration)
+    - [Step 4: User Login](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#step-4-user-login)
+    - [Step 5: Protect Routes](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#step-5-protect-routes)
+    - [Step 6: User Logout](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#step-6-user-logout)
+    - [Summary](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#summary-2)
+  - [JWT (JSON Web Tokens)](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#jwt-json-web-tokens)
+    - [Step 1: Install Required Packages](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#step-1-install-required-packages-1)
+    - [Step 2: Using JWT](https://github.com/sameerkatija/sc-advance-web-class/tree/day-34?tab=readme-ov-file#step-2-using-jwt)
 
 ## Practise Projects / Demo Projects
 
