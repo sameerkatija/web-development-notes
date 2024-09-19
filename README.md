@@ -1037,3 +1037,4 @@
 1. [Css mini Project](https://github.com/sameerkatija/web-development-notes/tree/day-7)
 2. [Dom Mini Project](https://github.com/sameerkatija/web-development-notes/tree/dom-color-guessing-game)
 3. [Basic CURD Operations with Mongoose and MongoDB](https://github.com/sameerkatija/web-development-notes/tree/curd-database)
+4. [Express Session, Cookies and Mongoose relationship Project](https://github.com/sameerkatija/web-development-notes/tree/backend-mongoose-rel)
