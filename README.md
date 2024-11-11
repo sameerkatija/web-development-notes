@@ -1017,6 +1017,7 @@
     - [Step 2: Using JWT](https://github.com/sameerkatija/web-development-notes/tree/day-34?tab=readme-ov-file#step-2-using-jwt)
 
 - [32. Express Router and Application Refactoring](https://github.com/sameerkatija/web-development-notes/tree/day-35?tab=readme-ov-file#express-router-and-application-refactoring)
+
   - [What is Express Router?](https://github.com/sameerkatija/web-development-notes/tree/day-35?tab=readme-ov-file#what-is-express-router)
     - [Key Features](https://github.com/sameerkatija/web-development-notes/tree/day-35?tab=readme-ov-file#key-features)
     - [Basic Usage](https://github.com/sameerkatija/web-development-notes/tree/day-35?tab=readme-ov-file#basic-usage)
@@ -1031,6 +1032,14 @@
     - [Step 6: server.js](https://github.com/sameerkatija/web-development-notes/tree/day-35?tab=readme-ov-file#step-6-serverjs)
     - [Summary](https://github.com/sameerkatija/web-development-notes/tree/day-35?tab=readme-ov-file#summary-1)
   - [Continued Learning in Web Development](https://github.com/sameerkatija/web-development-notes/tree/day-35?tab=readme-ov-file#continued-learning-in-web-development)
+
+- [33. Further Updates \& Advanced Concepts of JS](https://github.com/sameerkatija/web-development-notes/tree/js-utils?tab=readme-ov-file#further-updates--advanced-concepts-of-js)
+  - [Maps in Js](https://github.com/sameerkatija/web-development-notes/tree/js-utils?tab=readme-ov-file#maps-in-js)
+    - [Creating a Map](https://github.com/sameerkatija/web-development-notes/tree/js-utils?tab=readme-ov-file#creating-a-map)
+    - [Basic Operations with Maps](https://github.com/sameerkatija/web-development-notes/tree/js-utils?tab=readme-ov-file#basic-operations-with-maps)
+    - [Iterating Over Maps](https://github.com/sameerkatija/web-development-notes/tree/js-utils?tab=readme-ov-file#iterating-over-maps)
+    - [Advantages of Using Maps](https://github.com/sameerkatija/web-development-notes/tree/js-utils?tab=readme-ov-file#advantages-of-using-maps)
+    - [Comparison with Objects](https://github.com/sameerkatija/web-development-notes/tree/js-utils?tab=readme-ov-file#comparison-with-objects)
 
 ## Practise Projects / Demo Projects
 
