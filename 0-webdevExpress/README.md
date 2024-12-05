@@ -1,25 +1,5 @@
 # Advance Web Development - From 0 to 100
 
-- [3. CSS Styling Techniques, Compilers vs. Interpreters, and Introduction to JavaScript](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#css-styling-techniques-compilers-vs-interpreters-and-introduction-to-javascript)
-
-  - [Practise Code](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#practise-code)
-  - [CSS Internal styling](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#css-internal-styling)
-  - [CSS External Styling](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#css-external-styling)
-  - [What is a Compiler?](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#what-is-a-compiler)
-    - [How a Compiler Works:](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#how-a-compiler-works)
-  - [What is Interpreter?](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#what-is-interpreter)
-    - [How an Interpreter Works:](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#how-an-interpreter-works)
-  - [3. What is Javascript?](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#3-what-is-javascript)
-  - [Form](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#form)
-    - [Method Attribute](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#method-attribute)
-      - [1. `GET`](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#1-get)
-      - [2. `POST`](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#2-post)
-      - [3. PUT Method](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#3-put-method)
-      - [4. DELETE Method](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#4-delete-method)
-  - [Status Code](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#status-code)
-    - [List of most used status codes](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#list-of-most-used-status-codes)
-  - [Important Points](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#important-points)
-
 - [4. Deep Dive into CSS: Selectors, Combinators, Colors, and Fonts](https://github.com/sameerkatija/web-development-notes/tree/day-4?tab=readme-ov-file#deep-dive-into-css-selectors-combinators-colors-and-fonts)
 
   - [Practise Code](https://github.com/sameerkatija/web-development-notes/tree/day-4?tab=readme-ov-file#practise-code)
