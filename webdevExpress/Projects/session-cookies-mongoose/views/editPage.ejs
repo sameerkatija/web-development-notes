@@ -1,0 +1,12 @@
+<%- include('partials/header') %>
+
+<div id="form-div">
+  <form action="/<%=user._id%>?_method=PUT" method="POST">
+    <div>
+      <label for="add">Add something </label>
+      <input type="text" name="add" value="<%= user.name  %>" />
+    </div>
+    <button type="submit">Add the item</button>
+  </form>
+</div>
+<%- include('partials/footer') %>

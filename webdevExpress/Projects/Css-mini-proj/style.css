@@ -1,0 +1,161 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-size: 16px;
+}
+
+nav {
+  width: 100%;
+  background-color: hsl(0, 0%, 0%);
+  color: whitesmoke;
+  height: 10vh;
+}
+
+.main-nav {
+  width: 80%;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.main-nav ul {
+  display: flex;
+}
+.main-nav ul li {
+  list-style: none;
+  padding: 20px 20px;
+}
+.link-items {
+  width: 60%;
+}
+
+.button-div {
+  width: 30%;
+}
+
+.button-div .pc {
+  display: flex;
+}
+
+.button-div button {
+  /* align-items: center; */
+  height: 30px;
+  width: 100px;
+  margin: 0 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+.button-div .mobile {
+  display: none;
+}
+
+.button-div #submit-request {
+  flex-grow: 2;
+  background-color: #dadbf1;
+}
+
+.search-area {
+  background-color: #dadbf1;
+  height: 45vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#search-body {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#search-body h1 {
+  font-size: 3rem;
+  margin: 0 0 10px 0;
+}
+
+#search-body input {
+  width: 60%;
+  height: 2rem;
+  padding: 5px;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+  background-image: url("./arr.png");
+  background-repeat: no-repeat;
+  background-position: 97% 10px;
+}
+
+.main-body {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  /* flex-direction: column; */
+}
+
+.main-body div {
+  flex-basis: 40%;
+  background-color: aqua;
+  margin: 10px;
+  text-align: center;
+  align-content: center;
+  height: 20vh;
+}
+
+footer {
+  display: flex;
+  margin: 0 auto;
+  height: 40vh;
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+}
+
+footer div {
+  flex-basis: 18%;
+  background-color: beige;
+  color: black;
+  font-size: 2rem;
+  height: 80%;
+  margin: 10px;
+  text-align: center;
+  align-content: center;
+}
+
+.double div {
+  background-color: orangered;
+  height: 40%;
+}
+
+.flex-end {
+  height: 20%;
+  align-self: flex-end;
+  margin-bottom: 40px;
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    font-size: 10px;
+  }
+  #search-body {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  #search-body h1 {
+    font-size: 2rem;
+    margin: 0 0 10px 0;
+  }
+  .button-div .pc {
+    display: none;
+  }
+  .button-div .mobile {
+    display: flex;
+  }
+}

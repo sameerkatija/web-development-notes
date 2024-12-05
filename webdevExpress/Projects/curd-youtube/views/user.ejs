@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    This is user page
+    <hr />
+    <br />
+    <ul>
+      <% for(user of users) { %>
+      <li>
+        <%= user.userName %> -
+        <span><a href="/user/<%= user._id %>/edit">Edit</a> </span>
+        <span>
+          <form
+            style="display: inline-block"
+            action="/user/<%= user._id %>?_method=delete"
+            method="post"
+          >
+            <input type="submit" value="Delete" />
+          </form>
+        </span>
+      </li>
+      <% } %>
+    </ul>
+
+    <hr />
+    <br />
+    <a href="/">Go Back</a>
+  </body>
+</html>

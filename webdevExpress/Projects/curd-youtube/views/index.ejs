@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h2>
+      Already a User, wanna give some advise? <a href="/advices">Click Here</a>
+    </h2>
+    <br />
+    <hr />
+    <h1>Add a User:</h1>
+
+    <div>
+      Go to user : <a href="/user">Users</a>
+      <br />
+      <hr />
+    </div>
+    <form action="/user" method="POST">
+      <div>
+        <label for="userName">UserName: </label>
+        <input type="text" name="userName" id="userName" />
+      </div>
+      <input type="submit" value="Add User" />
+    </form>
+  </body>
+</html>

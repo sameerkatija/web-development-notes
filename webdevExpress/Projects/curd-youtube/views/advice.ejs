@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    This is advice page
+    <br />
+    <a href="/">Go Back</a>
+    <br />
+    <h3>Who is giving advise</h3>
+
+    <form action="/advices" method="post">
+      <div>
+        <label for="user">Select a User: </label>
+        <select name="user" id="user">
+          <% for(user of users) { %>
+          <option value="<%= user._id %>">
+            <%= user.userName %> - Number of Advices <%= user.count %>
+          </option>
+          <% } %>
+        </select>
+      </div>
+      <div>
+        <label for="advice">Advice:</label>
+        <input type="text" name="advice" id="advice" />
+      </div>
+      <input type="submit" value="Add Advice" />
+    </form>
+    <hr />
+    <br />
+    <h4>List of Advises:</h4>
+    <ul>
+      <% for (advice of advices){ %>
+      <li>
+        <%= advice.advice %> - <sup><b><%= advice.user_id.userName %></b></sup>
+      </li>
+      <% } %>
+    </ul>
+  </body>
+</html>

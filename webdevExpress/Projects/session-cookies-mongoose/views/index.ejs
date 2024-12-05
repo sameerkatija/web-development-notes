@@ -1,0 +1,35 @@
+<%- include('partials/header') %>
+
+<p><i><%= message %></i></p>
+
+<h1>This is the Data</h1>
+
+<div id="form-div">
+  <form action="/" method="POST">
+    <div>
+      <label for="createdBy">Created BY: </label>
+      <select name="createdBy">
+        <% for (item of data) { %>
+        <option value="<%= item._id %>"><%= item.name %></option>
+        <% } %>
+      </select>
+    </div>
+    <div>
+      <label for="add">Add something </label>
+      <input type="text" name="add" />
+    </div>
+    <button type="submit">Add the item</button>
+  </form>
+</div>
+<hr />
+<br />
+<div>
+  <% for (post of posts) { %>
+  <div>
+    <h1>Created By: <%= post.createdBy.name %></h1>
+    <p><%= post.desc %></p>
+  </div>
+  <hr />
+  <% } %>
+</div>
+<%- include('partials/footer') %>

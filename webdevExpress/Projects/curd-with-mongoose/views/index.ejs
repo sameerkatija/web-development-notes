@@ -1,0 +1,22 @@
+<%- include('partials/header') %>
+<h1>This is the Data</h1>
+<% for(item of data){ %>
+<li>
+  <%= item.name %>
+  <div><a href="/<%=item._id%>/edit">Edit</a></div>
+  <form action="/<%=item._id%>?_method=DELETE" method="POST">
+    <button>Delete</button>
+  </form>
+</li>
+<% } %>
+
+<div id="form-div">
+  <form action="/" method="POST">
+    <div>
+      <label for="add">Add something </label>
+      <input type="text" name="add" />
+    </div>
+    <button type="submit">Add the item</button>
+  </form>
+</div>
+<%- include('partials/footer') %>
