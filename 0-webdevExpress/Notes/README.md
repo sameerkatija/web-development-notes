@@ -1008,6 +1008,7 @@
     - [Step 2: Using JWT](./31-SECURITY.md#step-2-using-jwt)
 
 - [32. Express Router and Application Refactoring](./32-EXPRESS-ROUTER.md#express-router-and-application-refactoring)
+
   - [What is Express Router?](./32-EXPRESS-ROUTER.md#what-is-express-router)
     - [Key Features](./32-EXPRESS-ROUTER.md#key-features)
     - [Basic Usage](./32-EXPRESS-ROUTER.md#basic-usage)
@@ -1022,3 +1023,11 @@
     - [Step 6: server.js](./32-EXPRESS-ROUTER.md#step-6-serverjs)
     - [Summary](./32-EXPRESS-ROUTER.md#summary-1)
   - [Continued Learning in Web Development](./32-EXPRESS-ROUTER.md#continued-learning-in-web-development)
+
+- [33. Further Updates \& Advanced Concepts of JS](#further-updates--advanced-concepts-of-js)
+  - [Maps in Js](#maps-in-js)
+    - [Creating a Map](#creating-a-map)
+    - [Basic Operations with Maps](#basic-operations-with-maps)
+    - [Iterating Over Maps](#iterating-over-maps)
+    - [Advantages of Using Maps](#advantages-of-using-maps)
+    - [Comparison with Objects](#comparison-with-objects)
