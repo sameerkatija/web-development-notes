@@ -1,0 +1,30 @@
+## Complete Web Development Bootcamp
+
+- [1. Introduction to HTML: Elements, Tags, and Boilerplate](./1-HTML.md#introduction-to-html-elements-tags-and-boilerplate)
+
+  - [Front-end:](./1-HTML.md#front-end)
+  - [HTML (Hypertext Markup Language):](./1-HTML.md#html-hypertext-markup-language)
+  - [HTML Elements](./1-HTML.md#html-elements)
+    - [Types of Elements](./1-HTML.md#types-of-elements)
+      - [1. Block-level Elements](./1-HTML.md#1-block-level-elements)
+      - [2. Inline Elements](./1-HTML.md#2-inline-elements)
+  - [Tags:](./1-HTML.md#tags)
+  - [Attributes:](./1-HTML.md#attributes)
+    - [Common HTML attributes include:](./1-HTML.md#common-html-attributes-include)
+  - [HTML Boilerplate](./1-HTML.md#html-boilerplate)
+
+- [2. Exploring HTML Semantics, HTTP Basics, and CSS Styling](./2-HTML.md#exploring-html-semantics-http-basics-and-css-styling)
+
+  - [HTML Semantic Elements](./2-HTML.md#html-semantic-elements)
+  - [HTTP](./2-HTML.md#http)
+    - [1. Communication:](./2-HTML.md#1-communication)
+    - [2. Stateless Protocol:](./2-HTML.md#2-stateless-protocol)
+    - [3. Request-Response Model:](./2-HTML.md#3-request-response-model)
+    - [4. URLs:](./2-HTML.md#4-urls)
+    - [5. Methods:](./2-HTML.md#5-methods)
+    - [6. Headers:](./2-HTML.md#6-headers)
+    - [7. Versions:](./2-HTML.md#7-versions)
+  - [HTTPS](./2-HTML.md#https)
+  - [href](./2-HTML.md#href)
+  - [CSS (Cascading Style Sheets)](./2-HTML.md#css-cascading-style-sheets)
+  - [CSS Inline-styling](./2-HTML.md#css-inline-styling)

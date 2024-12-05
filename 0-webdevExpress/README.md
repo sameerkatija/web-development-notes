@@ -1,38 +1,5 @@
 # Advance Web Development - From 0 to 100
 
-## Complete Web Development Bootcamp
-
-- [1. Introduction to HTML: Elements, Tags, and Boilerplate](https://github.com/sameerkatija/web-development-notes/tree/day-1?tab=readme-ov-file#introduction-to-html-elements-tags-and-boilerplate)
-
-  - [Practise Code](https://github.com/sameerkatija/web-development-notes/tree/day-1?tab=readme-ov-file#code)
-  - [Front-end:](https://github.com/sameerkatija/web-development-notes/tree/day-1?tab=readme-ov-file#front-end)
-  - [HTML (Hypertext Markup Language):](https://github.com/sameerkatija/web-development-notes/tree/day-1?tab=readme-ov-file#html-hypertext-markup-language)
-  - [HTML Elements](https://github.com/sameerkatija/web-development-notes/tree/day-1?tab=readme-ov-file#html-elements)
-    - [Types of Elements](https://github.com/sameerkatija/web-development-notes/tree/day-1?tab=readme-ov-file#types-of-elements)
-      - [1. Block-level Elements](https://github.com/sameerkatija/web-development-notes/tree/day-1?tab=readme-ov-file#1-block-level-elements)
-      - [2. Inline Elements](https://github.com/sameerkatija/web-development-notes/tree/day-1?tab=readme-ov-file#2-inline-elements)
-  - [Tags:](https://github.com/sameerkatija/web-development-notes/tree/day-1?tab=readme-ov-file#tags)
-  - [Attributes:](https://github.com/sameerkatija/web-development-notes/tree/day-1?tab=readme-ov-file#attributes)
-    - [Common HTML attributes include:](https://github.com/sameerkatija/web-development-notes/tree/day-1?tab=readme-ov-file#common-html-attributes-include)
-  - [HTML Boilerplate](https://github.com/sameerkatija/web-development-notes/tree/day-1?tab=readme-ov-file#html-boilerplate)
-
-- [2. Exploring HTML Semantics, HTTP Basics, and CSS Styling](https://github.com/sameerkatija/web-development-notes/tree/day-2?tab=readme-ov-file#exploring-html-semantics-http-basics-and-css-styling)
-
-  - [Practise Code](https://github.com/sameerkatija/web-development-notes/tree/day-2?tab=readme-ov-file#code-for-day-2)
-  - [HTML Semantic Elements](https://github.com/sameerkatija/web-development-notes/tree/day-2?tab=readme-ov-file#html-semantic-elements)
-  - [HTTP](https://github.com/sameerkatija/web-development-notes/tree/day-2?tab=readme-ov-file#http)
-    - [1. Communication:](https://github.com/sameerkatija/web-development-notes/tree/day-2?tab=readme-ov-file#1-communication)
-    - [2. Stateless Protocol:](https://github.com/sameerkatija/web-development-notes/tree/day-2?tab=readme-ov-file#2-stateless-protocol)
-    - [3. Request-Response Model:](https://github.com/sameerkatija/web-development-notes/tree/day-2?tab=readme-ov-file#3-request-response-model)
-    - [4. URLs:](https://github.com/sameerkatija/web-development-notes/tree/day-2?tab=readme-ov-file#4-urls)
-    - [5. Methods:](https://github.com/sameerkatija/web-development-notes/tree/day-2?tab=readme-ov-file#5-methods)
-    - [6. Headers:](https://github.com/sameerkatija/web-development-notes/tree/day-2?tab=readme-ov-file#6-headers)
-    - [7. Versions:](https://github.com/sameerkatija/web-development-notes/tree/day-2?tab=readme-ov-file#7-versions)
-  - [HTTPS](https://github.com/sameerkatija/web-development-notes/tree/day-2?tab=readme-ov-file#https)
-  - [href](https://github.com/sameerkatija/web-development-notes/tree/day-2?tab=readme-ov-file#href)
-  - [CSS (Cascading Style Sheets)](https://github.com/sameerkatija/web-development-notes/tree/day-2?tab=readme-ov-file#css-cascading-style-sheets)
-  - [CSS Inline-styling](https://github.com/sameerkatija/web-development-notes/tree/day-2?tab=readme-ov-file#css-inline-styling)
-
 - [3. CSS Styling Techniques, Compilers vs. Interpreters, and Introduction to JavaScript](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#css-styling-techniques-compilers-vs-interpreters-and-introduction-to-javascript)
 
   - [Practise Code](https://github.com/sameerkatija/web-development-notes/tree/day-3?tab=readme-ov-file#practise-code)
@@ -1031,3 +998,7 @@
     - [Step 6: server.js](https://github.com/sameerkatija/web-development-notes/tree/day-35?tab=readme-ov-file#step-6-serverjs)
     - [Summary](https://github.com/sameerkatija/web-development-notes/tree/day-35?tab=readme-ov-file#summary-1)
   - [Continued Learning in Web Development](https://github.com/sameerkatija/web-development-notes/tree/day-35?tab=readme-ov-file#continued-learning-in-web-development)
+
+## Projects
+
+- [Go to Project Dir](./Projects/)
