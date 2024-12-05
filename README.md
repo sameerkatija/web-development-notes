@@ -10,7 +10,7 @@ Please note that these notes are compiled from various sources, including ChatGP
 
 ## Links to Notes
 
-1. [Web Development Notes](https://github.com/sameerkatija/web-development-notes/tree/webdev_index)
+1. [Web Development Notes](./webdevExpress/)
    - JavaScript, HTML, CSS, Node.js, Express, EJS
 
 ## Contributing
