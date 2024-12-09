@@ -1,10 +1,10 @@
-# Advanced Web Development - From 0 to 100
+# Master Computer Science - From 0 to 100
 
 ## Project Description
 
-I initially created this repository with the goal of adding notes on core web development technologies, including JavaScript, HTML, CSS, and Node.js with Express and EJS. However, as I progressed, I realized that there were additional important topics that should be included to provide a more comprehensive learning experience. These topics include TypeScript, backend engineering fundamentals, software design patterns, and other essential concepts that can help streamline the learning journey.
+I initially created this repository with the goal of adding notes on core web development technologies, including JavaScript, HTML, CSS, and Node.js with Express and EJS. However, as I progressed, I realized that there were additional trending technologies that should be included to provide a more comprehensive learning experience. These topics include Machine Learning, Blockchain, and a complete web development curriculum, among others.
 
-As a result, I decided to restructure the repository to accommodate these additional notes. I am currently working on expanding the content and organizing it into a more cohesive structure.
+As a result, I decided to restructure the repository to accommodate these trending technologies alongside the foundational web development content. I am currently working on expanding the material and organizing it into a more cohesive structure.
 
 Please note that these notes are compiled from various sources, including ChatGPT and other platforms, with the intention of creating a structured learning path. While the content is not entirely original, the goal is to curate and organize it in a way that makes learning more accessible and efficient.
 
@@ -24,6 +24,8 @@ Here are a few ways you can contribute:
 - Correcting any errors or improving the clarity of notes.
 
 ## How to Contribute
+
+> This is outdated, will be updated soon!
 
 Contributions are welcome! Since this repository contains multiple branches for different sets of notes, please follow these steps to contribute:
 
